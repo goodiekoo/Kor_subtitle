@@ -1,0 +1,2712 @@
+1
+00:00:04,293 --> 00:00:05,440
+[XBOX SOUND]
+
+2
+00:00:05,473 --> 00:00:08,420
+Hello, and welcome to
+The Official Xbox Podcast.
+
+3
+00:00:08,420 --> 00:00:11,330
+I'm your host, Tina Amini, and
+we have a very special episode
+
+4
+00:00:11,330 --> 00:00:13,550
+today, as you can
+probably tell by the fact
+
+5
+00:00:13,550 --> 00:00:15,560
+that, I'm joined by
+Phil, Sarah, and Matt.
+
+6
+00:00:15,560 --> 00:00:16,670
+Welcome.
+
+7
+00:00:16,670 --> 00:00:19,520
+And we're going to talk
+about some updates at Xbox.
+
+8
+00:00:19,520 --> 00:00:21,500
+We want to talk about
+game exclusivity.
+
+9
+00:00:21,500 --> 00:00:23,210
+We want to talk about
+Activision Blizzard
+
+10
+00:00:23,210 --> 00:00:25,640
+now that they're a part of
+our portfolio, how that might
+
+11
+00:00:25,640 --> 00:00:27,117
+be an impact on Game Pass.
+
+12
+00:00:27,117 --> 00:00:28,700
+And we want to talk
+about hardware too
+
+13
+00:00:28,700 --> 00:00:31,340
+and how all of this fits
+into the strategy at Xbox.
+
+14
+00:00:31,340 --> 00:00:32,930
+So where should we start, Phil?
+
+15
+00:00:32,930 --> 00:00:37,040
+Well, when we originally had
+planned for this show starting
+
+16
+00:00:37,040 --> 00:00:39,740
+back in December,
+I think we probably
+
+17
+00:00:39,740 --> 00:00:42,230
+would have started with
+Activision Blizzard,
+
+18
+00:00:42,230 --> 00:00:44,840
+maybe talked a little
+bit about the exclusivity
+
+19
+00:00:44,840 --> 00:00:47,000
+with some of the news coming
+up, and then hardware.
+
+20
+00:00:47,000 --> 00:00:50,870
+But we've had some unforeseen
+news that has come out.
+
+21
+00:00:50,870 --> 00:00:54,140
+So let's just go and tackle
+the exclusivity question,
+
+22
+00:00:54,140 --> 00:00:56,450
+because I know it's on
+the minds a lot of people.
+
+23
+00:00:56,450 --> 00:00:58,033
+We hear from the
+community, and that's
+
+24
+00:00:58,033 --> 00:00:59,930
+an important input for us.
+
+25
+00:00:59,930 --> 00:01:02,150
+So we made the
+decision that we're
+
+26
+00:01:02,150 --> 00:01:06,270
+going to take four games
+to the other consoles--
+
+27
+00:01:06,270 --> 00:01:09,510
+just four games, not
+a change to our kind
+
+28
+00:01:09,510 --> 00:01:12,840
+of fundamental
+exclusive strategy.
+
+29
+00:01:12,840 --> 00:01:16,470
+We're making these decisions
+for some specific reasons.
+
+30
+00:01:16,470 --> 00:01:19,680
+We make every decision, really,
+with the long-term health
+
+31
+00:01:19,680 --> 00:01:21,360
+of Xbox in mind.
+
+32
+00:01:21,360 --> 00:01:24,840
+And long-term health of Xbox
+means a growing platform,
+
+33
+00:01:24,840 --> 00:01:29,430
+our games performing, building
+the best platform for creators,
+
+34
+00:01:29,430 --> 00:01:31,590
+reaching as many
+players as we can.
+
+35
+00:01:31,590 --> 00:01:35,520
+We're always looking to learn as
+a leadership team and to grow.
+
+36
+00:01:35,520 --> 00:01:37,650
+And we think this is an
+interesting point in time
+
+37
+00:01:37,650 --> 00:01:40,410
+for us to use what some
+of the other platforms
+
+38
+00:01:40,410 --> 00:01:42,997
+have right now to help
+grow our franchises.
+
+39
+00:01:42,997 --> 00:01:44,080
+So we're going to do that.
+
+40
+00:01:44,080 --> 00:01:45,750
+TINA AMINI: So
+these four titles--
+
+41
+00:01:45,750 --> 00:01:46,485
+what are they?
+
+42
+00:01:46,485 --> 00:01:47,700
+Can you say?
+
+43
+00:01:47,700 --> 00:01:49,830
+I'm not going to
+name those games.
+
+44
+00:01:49,830 --> 00:01:51,750
+The teams that are
+building those games
+
+45
+00:01:51,750 --> 00:01:54,660
+have announced plans that
+are not too far away.
+
+46
+00:01:54,660 --> 00:01:57,210
+As we know, game teams
+put a lot of energy
+
+47
+00:01:57,210 --> 00:01:59,380
+into their announcements
+with the partners.
+
+48
+00:01:59,380 --> 00:02:03,340
+So I don't want to take
+anything away from those teams.
+
+49
+00:02:03,340 --> 00:02:06,390
+So I won't be talking about
+the titles specifically.
+
+50
+00:02:06,390 --> 00:02:10,410
+But I think when they come
+out, it'll make sense.
+
+51
+00:02:10,410 --> 00:02:12,420
+TINA AMINI: Can we say
+if either of those titles
+
+52
+00:02:12,420 --> 00:02:14,550
+are Starfield or Indiana Jones?
+
+53
+00:02:14,550 --> 00:02:16,950
+They are not Starfield
+or Indiana Jones.
+
+54
+00:02:16,950 --> 00:02:18,810
+TINA AMINI: Well,
+what was the criteria
+
+55
+00:02:18,810 --> 00:02:21,930
+in how the team was thinking
+about selecting those four
+
+56
+00:02:21,930 --> 00:02:22,617
+titles?
+
+57
+00:02:22,617 --> 00:02:24,450
+Let me start a little
+bit outside of that,
+
+58
+00:02:24,450 --> 00:02:26,610
+and then I'll get to the
+four specific games that
+
+59
+00:02:26,610 --> 00:02:30,030
+we're talking about right,
+now because the fundamental
+
+60
+00:02:30,030 --> 00:02:32,965
+decision driver for any
+decision that we make,
+
+61
+00:02:32,965 --> 00:02:35,340
+anything we're going to talk
+about today is the long-term
+
+62
+00:02:35,340 --> 00:02:36,450
+health of Xbox--
+
+63
+00:02:36,450 --> 00:02:39,150
+that we're running a
+growing platform that
+
+64
+00:02:39,150 --> 00:02:42,060
+is reaching more players,
+that our games are having
+
+65
+00:02:42,060 --> 00:02:44,170
+as much success as possible.
+
+66
+00:02:44,170 --> 00:02:46,080
+And I do have a
+fundamental belief
+
+67
+00:02:46,080 --> 00:02:48,420
+that over the next
+5 or 10 years,
+
+68
+00:02:48,420 --> 00:02:51,870
+exclusive games, games
+that are exclusive to one
+
+69
+00:02:51,870 --> 00:02:54,685
+piece of hardware, are going to
+be a smaller and smaller part
+
+70
+00:02:54,685 --> 00:02:55,560
+of the game industry.
+
+71
+00:02:55,560 --> 00:02:57,060
+And that's not
+some great insight
+
+72
+00:02:57,060 --> 00:02:58,920
+because if you look
+at the last 10 years
+
+73
+00:02:58,920 --> 00:03:02,290
+and what the biggest games are
+today, it's a natural place--
+
+74
+00:03:02,290 --> 00:03:05,610
+whether it's one console
+in PC, multiple consoles,
+
+75
+00:03:05,610 --> 00:03:07,320
+mobile, console, and PC--
+
+76
+00:03:07,320 --> 00:03:10,810
+you see big games landing
+on multiple platforms.
+
+77
+00:03:10,810 --> 00:03:13,710
+And we want to be
+a great platform
+
+78
+00:03:13,710 --> 00:03:17,160
+for creators that are trying
+to realize that potential.
+
+79
+00:03:17,160 --> 00:03:20,700
+But now, back to the specifics
+of the question on these four
+
+80
+00:03:20,700 --> 00:03:22,110
+specific titles.
+
+81
+00:03:22,110 --> 00:03:25,450
+We looked at games that
+are over a year old.
+
+82
+00:03:25,450 --> 00:03:29,430
+So they've been on Xbox
+and PC for a while.
+
+83
+00:03:29,430 --> 00:03:31,980
+A couple of the games are
+community-driven games,
+
+84
+00:03:31,980 --> 00:03:35,775
+new games, kind of first
+iterations of a franchise that
+
+85
+00:03:35,775 --> 00:03:37,650
+have reached their full
+potential, let's say,
+
+86
+00:03:37,650 --> 00:03:38,940
+on Xbox and PC--
+
+87
+00:03:38,940 --> 00:03:41,910
+there's always growth,
+franchises that we obviously
+
+88
+00:03:41,910 --> 00:03:44,820
+want to continue to invest in.
+
+89
+00:03:44,820 --> 00:03:47,310
+Part of having the ability
+to continue to invest
+
+90
+00:03:47,310 --> 00:03:50,642
+is that the businesses behind
+those franchises continue.
+
+91
+00:03:50,642 --> 00:03:53,100
+We think it's important that
+these service-based games that
+
+92
+00:03:53,100 --> 00:03:55,740
+have communities behind them,
+that they can have confidence
+
+93
+00:03:55,740 --> 00:03:57,490
+that they're going to
+exist in the future.
+
+94
+00:03:57,490 --> 00:04:00,240
+So two of them kind of
+community-driven games
+
+95
+00:04:00,240 --> 00:04:01,800
+that will end up
+on other platforms
+
+96
+00:04:01,800 --> 00:04:03,930
+and give us the ability to
+continue to invest in them.
+
+97
+00:04:03,930 --> 00:04:05,513
+We think that's great
+for the business
+
+98
+00:04:05,513 --> 00:04:08,970
+and great for the communities--
+more players to play with.
+
+99
+00:04:08,970 --> 00:04:12,900
+Two of the other games are
+smaller games that were never
+
+100
+00:04:12,900 --> 00:04:16,050
+really meant to be built as
+kind of platform exclusives
+
+101
+00:04:16,050 --> 00:04:18,390
+and all the fanfare
+that goes around that,
+
+102
+00:04:18,390 --> 00:04:20,850
+but games that our teams
+really wanted to go
+
+103
+00:04:20,850 --> 00:04:23,580
+build that we love
+supporting creative endeavors
+
+104
+00:04:23,580 --> 00:04:26,640
+across our studios
+regardless of size.
+
+105
+00:04:26,640 --> 00:04:29,940
+And as they've realized their
+full potential on Xbox and PC,
+
+106
+00:04:29,940 --> 00:04:33,210
+we see an opportunity to
+utilize the other platforms
+
+107
+00:04:33,210 --> 00:04:37,140
+as a place to just drive
+more business value out
+
+108
+00:04:37,140 --> 00:04:40,260
+of those games,
+allowing us to invest
+
+109
+00:04:40,260 --> 00:04:42,440
+in maybe future
+iterations of those,
+
+110
+00:04:42,440 --> 00:04:44,820
+so sequals to those,
+or just other games
+
+111
+00:04:44,820 --> 00:04:46,740
+like that in our portfolio.
+
+112
+00:04:46,740 --> 00:04:50,280
+And when we don't damage Xbox
+and we can grow our business
+
+113
+00:04:50,280 --> 00:04:54,310
+using what other platforms
+have to help us with that,
+
+114
+00:04:54,310 --> 00:04:55,300
+we're going to do that.
+
+115
+00:04:55,300 --> 00:04:58,560
+And that's really the story
+behind these four games.
+
+116
+00:04:58,560 --> 00:05:01,330
+And last thing I'll
+say looking forward,
+
+117
+00:05:01,330 --> 00:05:05,520
+I think there is an interesting
+story for us of introducing
+
+118
+00:05:05,520 --> 00:05:10,200
+Xbox franchises to
+players on other platforms
+
+119
+00:05:10,200 --> 00:05:12,900
+to get them more
+interested in Xbox.
+
+120
+00:05:12,900 --> 00:05:16,600
+We think there's a good
+brand value for Xbox there.
+
+121
+00:05:16,600 --> 00:05:19,158
+So four games, no
+promise beyond that.
+
+122
+00:05:19,158 --> 00:05:20,700
+So if you're on
+those other platforms
+
+123
+00:05:20,700 --> 00:05:22,492
+and you see these four
+games coming, please
+
+124
+00:05:22,492 --> 00:05:25,030
+don't take it as some signal
+that everything's coming.
+
+125
+00:05:25,030 --> 00:05:26,190
+It's not.
+
+126
+00:05:26,190 --> 00:05:27,232
+And we're going to learn.
+
+127
+00:05:27,232 --> 00:05:28,732
+TINA AMINI: So when
+you are thinking
+
+128
+00:05:28,732 --> 00:05:31,090
+about the future and this
+concept of live service games,
+
+129
+00:05:31,090 --> 00:05:33,120
+games that can benefit
+from bigger audiences,
+
+130
+00:05:33,120 --> 00:05:35,910
+new audiences, how does
+that apply to future titles
+
+131
+00:05:35,910 --> 00:05:37,770
+and how you're applying
+that criteria there?
+
+132
+00:05:37,770 --> 00:05:38,270
+Yeah.
+
+133
+00:05:38,270 --> 00:05:40,110
+There's really no
+fundamental change
+
+134
+00:05:40,110 --> 00:05:41,958
+to how we think
+about exclusivity.
+
+135
+00:05:41,958 --> 00:05:43,500
+We just came out of
+Developer Direct,
+
+136
+00:05:43,500 --> 00:05:46,590
+which was an awesome show where
+we showed great games that
+
+137
+00:05:46,590 --> 00:05:49,140
+are coming to Xbox,
+and PC, and cloud,
+
+138
+00:05:49,140 --> 00:05:52,140
+which really makes them
+accessible to hundreds
+
+139
+00:05:52,140 --> 00:05:53,380
+of millions of people.
+
+140
+00:05:53,380 --> 00:05:57,240
+So we're really focused on a
+couple platforms and what's
+
+141
+00:05:57,240 --> 00:05:58,740
+going to show up there.
+
+142
+00:05:58,740 --> 00:06:01,707
+But our key of
+play the games you
+
+143
+00:06:01,707 --> 00:06:03,790
+want, with the people you
+want, anywhere you want,
+
+144
+00:06:03,790 --> 00:06:06,370
+when everybody
+plays, we all win--
+
+145
+00:06:06,370 --> 00:06:08,710
+these have been part of
+our strategy for years
+
+146
+00:06:08,710 --> 00:06:10,180
+and will continue to be.
+
+147
+00:06:10,180 --> 00:06:12,460
+Our focus is on,
+how do we continue
+
+148
+00:06:12,460 --> 00:06:15,220
+to grow the games industry by
+reaching more players in more
+
+149
+00:06:15,220 --> 00:06:16,030
+places?
+
+150
+00:06:16,030 --> 00:06:18,940
+And how do we grow
+Xbox as part of that--
+
+151
+00:06:18,940 --> 00:06:21,280
+Xbox as a hardware
+platform, Xbox
+
+152
+00:06:21,280 --> 00:06:23,470
+as a publisher of
+great games, and Xbox
+
+153
+00:06:23,470 --> 00:06:26,253
+as a platform for the
+world's best creators.
+
+154
+00:06:26,253 --> 00:06:27,670
+And then knowing
+that, how do we
+
+155
+00:06:27,670 --> 00:06:30,265
+think about our first
+party games and Game Pass?
+
+156
+00:06:30,265 --> 00:06:31,000
+MATT BOOTY: Yeah.
+
+157
+00:06:31,000 --> 00:06:34,538
+Well, to build on what Phil just
+said, one thing I would add--
+
+158
+00:06:34,538 --> 00:06:35,830
+you were talking about growth--
+
+159
+00:06:35,830 --> 00:06:40,000
+is just that we've seen this
+inversion over the last five
+
+160
+00:06:40,000 --> 00:06:43,150
+years where it used to be that
+the platform was the biggest
+
+161
+00:06:43,150 --> 00:06:47,410
+thing, and the games would
+tuck in within the platform.
+
+162
+00:06:47,410 --> 00:06:50,260
+Today, big games like
+a Roblox or a Fortnite
+
+163
+00:06:50,260 --> 00:06:52,810
+could actually be bigger
+than any one platform.
+
+164
+00:06:52,810 --> 00:06:56,420
+And that really has changed the
+way that we think about things.
+
+165
+00:06:56,420 --> 00:06:59,260
+So in the midst of all that,
+I think we at First Party
+
+166
+00:06:59,260 --> 00:07:01,900
+can come back to some
+core principles--
+
+167
+00:07:01,900 --> 00:07:05,110
+first, that all of our games
+will be on the Xbox platform.
+
+168
+00:07:05,110 --> 00:07:08,570
+Second, all of our games will
+go into Game Pass on day one.
+
+169
+00:07:08,570 --> 00:07:11,560
+And third, we know that
+Game Pass will only
+
+170
+00:07:11,560 --> 00:07:13,300
+be available on Xbox.
+
+171
+00:07:13,300 --> 00:07:16,270
+So there's starting
+points for us.
+
+172
+00:07:16,270 --> 00:07:18,730
+As Phil mentioned,
+there are games today
+
+173
+00:07:18,730 --> 00:07:21,700
+that you can play that
+only can be found on Xbox.
+
+174
+00:07:21,700 --> 00:07:25,480
+And at the same time, we want
+to bring more of our games
+
+175
+00:07:25,480 --> 00:07:26,260
+to more players.
+
+176
+00:07:26,260 --> 00:07:29,280
+So we're going to
+continue to look at that.
+
+177
+00:07:29,280 --> 00:07:31,587
+Kind of moving aside,
+though, from some of those
+
+178
+00:07:31,587 --> 00:07:33,420
+and thinking more about,
+what does it really
+
+179
+00:07:33,420 --> 00:07:34,380
+mean for the player?
+
+180
+00:07:34,380 --> 00:07:39,930
+To me, the two key things are
+cross-play and cross-save.
+
+181
+00:07:39,930 --> 00:07:44,550
+Those things allow us to deliver
+on the promise of Xbox, which
+
+182
+00:07:44,550 --> 00:07:46,710
+is play with your
+friends where they are,
+
+183
+00:07:46,710 --> 00:07:49,450
+play on the devices you want,
+play the games you want.
+
+184
+00:07:49,450 --> 00:07:52,650
+So that is really only
+possible at a practical level
+
+185
+00:07:52,650 --> 00:07:55,380
+when you know that your
+saves and your player
+
+186
+00:07:55,380 --> 00:07:58,260
+are going to be able to
+move across all those parts.
+
+187
+00:07:58,260 --> 00:08:00,647
+So not all of our games
+today are necessarily
+
+188
+00:08:00,647 --> 00:08:01,980
+built to take advantage of that.
+
+189
+00:08:01,980 --> 00:08:04,380
+There still will be
+some games that don't.
+
+190
+00:08:04,380 --> 00:08:07,410
+As we bring more teams
+into the Xbox family,
+
+191
+00:08:07,410 --> 00:08:09,510
+there's some catchup
+to do as we get there.
+
+192
+00:08:09,510 --> 00:08:12,480
+But that cross-play,
+cross-save is 
+
+193
+00:08:12,480 --> 00:08:14,350
+so fundamental to
+what we're doing.
+
+194
+00:08:14,350 --> 00:08:17,100
+And I think it's something
+that we as First Party
+
+195
+00:08:17,100 --> 00:08:20,310
+get such a good benefit from
+being so close to the platform.
+
+196
+00:08:20,310 --> 00:08:21,640
+Yeah, absolutely.
+
+197
+00:08:21,640 --> 00:08:24,750
+That's one of the things, like
+you said, all of our games
+
+198
+00:08:24,750 --> 00:08:26,250
+are always in Game Pass.
+
+199
+00:08:26,250 --> 00:08:29,235
+And so I'm excited to
+announce, with the coming
+
+200
+00:08:29,235 --> 00:08:31,360
+together that we had with
+Activision Blizzard King,
+
+201
+00:08:31,360 --> 00:08:32,919
+that Activision
+and Blizzard games
+
+202
+00:08:32,919 --> 00:08:35,590
+are coming to Game Pass
+starting with Diablo IV
+
+203
+00:08:35,590 --> 00:08:39,850
+on March 28, which I'm super,
+super excited to share today.
+
+204
+00:08:39,850 --> 00:08:41,950
+And it's all part
+of our commitment
+
+205
+00:08:41,950 --> 00:08:45,490
+to make Xbox, the Xbox
+experience, and the games
+
+206
+00:08:45,490 --> 00:08:48,260
+that we build as widely
+available as possible.
+
+207
+00:08:48,260 --> 00:08:50,470
+So now the 34 million
+Game Pass members
+
+208
+00:08:50,470 --> 00:08:53,637
+can all enjoy the fantastic
+experience of Diablo IV.
+
+209
+00:08:53,637 --> 00:08:54,470
+TINA AMINI: Amazing.
+
+210
+00:08:54,470 --> 00:08:55,600
+Can we come back to the point--
+
+211
+00:08:55,600 --> 00:08:57,225
+Phil, you mentioned
+at the top of this,
+
+212
+00:08:57,225 --> 00:08:59,950
+this isn't really a
+change in strategy for us.
+
+213
+00:08:59,950 --> 00:09:01,870
+Can you recap for
+me how it isn't?
+
+214
+00:09:01,870 --> 00:09:02,620
+Yeah.
+
+215
+00:09:02,620 --> 00:09:04,840
+And I thought both
+Matt and Sarah
+
+216
+00:09:04,840 --> 00:09:07,180
+did a really nice job of
+talking about what we're doing
+
+217
+00:09:07,180 --> 00:09:10,900
+on Xbox, where we're going.
+
+218
+00:09:10,900 --> 00:09:14,710
+If you take a platform feature
+like Xbox Play Anywhere, which
+
+219
+00:09:14,710 --> 00:09:17,657
+has been a promise that we've
+made on our first party games,
+
+220
+00:09:17,657 --> 00:09:19,240
+that you can buy our
+game once, you're
+
+221
+00:09:19,240 --> 00:09:21,820
+going to get to play
+across Xbox and Windows--
+
+222
+00:09:21,820 --> 00:09:24,250
+I think we're the only
+platform that does this--
+
+223
+00:09:24,250 --> 00:09:27,160
+that makes it possible
+for you not only to play
+
+224
+00:09:27,160 --> 00:09:28,850
+with your friends
+wherever they are,
+
+225
+00:09:28,850 --> 00:09:31,300
+but to know that you actually
+have multiple entitlements
+
+226
+00:09:31,300 --> 00:09:32,050
+to the games.
+
+227
+00:09:32,050 --> 00:09:34,510
+I think that's a
+technology I'd love to see
+
+228
+00:09:34,510 --> 00:09:36,280
+applied to more platforms.
+
+229
+00:09:36,280 --> 00:09:39,790
+But it is this view
+that people are
+
+230
+00:09:39,790 --> 00:09:42,898
+going to play Xbox
+in multiple places,
+
+231
+00:09:42,898 --> 00:09:45,440
+whether it's play the games you
+want with the people you want
+
+232
+00:09:45,440 --> 00:09:48,220
+anywhere you want,
+whether it's content,
+
+233
+00:09:48,220 --> 00:09:50,560
+community, and cloud, whether
+it's when everybody plays,
+
+234
+00:09:50,560 --> 00:09:51,340
+we all win--
+
+235
+00:09:51,340 --> 00:09:54,310
+we've had different
+taglines different strategy
+
+236
+00:09:54,310 --> 00:09:57,070
+kind of words that
+we've used, but always
+
+237
+00:09:57,070 --> 00:10:01,720
+with this view that Xbox
+is a platform for creators
+
+238
+00:10:01,720 --> 00:10:04,150
+who want to reach
+the most players.
+
+239
+00:10:04,150 --> 00:10:06,220
+Our investments in
+xCloud, our investments
+
+240
+00:10:06,220 --> 00:10:08,860
+in franchises like Minecraft,
+and now Call of Duty,
+
+241
+00:10:08,860 --> 00:10:10,540
+and other large
+franchises so that we
+
+242
+00:10:10,540 --> 00:10:12,500
+learn how to build those.
+
+243
+00:10:12,500 --> 00:10:15,010
+This has been a strategy that
+we've been on for, I'd say,
+
+244
+00:10:15,010 --> 00:10:16,190
+a decade.
+
+245
+00:10:16,190 --> 00:10:18,050
+It's not about one device.
+
+246
+00:10:18,050 --> 00:10:21,250
+It's not about games
+in service of a device,
+
+247
+00:10:21,250 --> 00:10:25,090
+but, rather, the devices
+that people want to play on
+
+248
+00:10:25,090 --> 00:10:28,000
+should be in service of making
+the games as big and popular
+
+249
+00:10:28,000 --> 00:10:29,500
+as they possibly could be.
+
+250
+00:10:29,500 --> 00:10:31,810
+Because, really, a
+healthy creator community
+
+251
+00:10:31,810 --> 00:10:34,450
+on Xbox, a healthy creator
+community in gaming
+
+252
+00:10:34,450 --> 00:10:37,690
+all up is the thing that
+all of us as Game Players
+
+253
+00:10:37,690 --> 00:10:39,580
+should be voting
+for, because that's
+
+254
+00:10:39,580 --> 00:10:41,860
+the thing that will lead to
+the best long-term success
+
+255
+00:10:41,860 --> 00:10:43,240
+and growth in this industry.
+
+256
+00:10:43,240 --> 00:10:44,782
+TINA AMINI: And my
+understanding just
+
+257
+00:10:44,782 --> 00:10:46,480
+from listening, and
+learning from you
+
+258
+00:10:46,480 --> 00:10:48,520
+three over the past
+few weeks, just
+
+259
+00:10:48,520 --> 00:10:50,680
+understanding what's
+happening with Xbox
+
+260
+00:10:50,680 --> 00:10:53,320
+is that we see trends
+with player behavior
+
+261
+00:10:53,320 --> 00:10:55,960
+where people are playing
+on multiple devices.
+
+262
+00:10:55,960 --> 00:10:57,250
+That is the reality.
+
+263
+00:10:57,250 --> 00:11:01,570
+And we have put some games out
+on multiple platforms before.
+
+264
+00:11:01,570 --> 00:11:04,265
+So my understanding is that
+that's been good for players.
+
+265
+00:11:04,265 --> 00:11:05,890
+How does that come
+back to the business
+
+266
+00:11:05,890 --> 00:11:07,540
+with all of that in mind?
+
+267
+00:11:07,540 --> 00:11:08,170
+Yeah.
+
+268
+00:11:08,170 --> 00:11:11,020
+As you said, we have shipped
+games on other platforms.
+
+269
+00:11:11,020 --> 00:11:13,510
+In fact, realistically,
+if you look
+
+270
+00:11:13,510 --> 00:11:17,140
+with the addition of Activision
+Blizzard and ZeniMax,
+
+271
+00:11:17,140 --> 00:11:20,230
+we're one of the largest game
+publishers on PlayStation.
+
+272
+00:11:20,230 --> 00:11:22,810
+We're one of the largest
+publishers on the Nintendo
+
+273
+00:11:22,810 --> 00:11:25,680
+Switch, especially when you
+put Minecraft into the equation
+
+274
+00:11:25,680 --> 00:11:26,180
+as well.
+
+275
+00:11:26,180 --> 00:11:28,480
+And now, we're one of
+the largest publishers
+
+276
+00:11:28,480 --> 00:11:30,380
+on mobile platforms as well.
+
+277
+00:11:30,380 --> 00:11:33,970
+And that's not something that
+we want to back away from.
+
+278
+00:11:33,970 --> 00:11:36,850
+We want to continue to
+be building great games
+
+279
+00:11:36,850 --> 00:11:39,400
+that millions and millions
+of people can love
+
+280
+00:11:39,400 --> 00:11:41,410
+and that they can
+play those games where
+
+281
+00:11:41,410 --> 00:11:43,040
+they want to go play.
+
+282
+00:11:43,040 --> 00:11:45,430
+But we do understand
+the business success
+
+283
+00:11:45,430 --> 00:11:47,500
+that Xbox has to have.
+
+284
+00:11:47,500 --> 00:11:50,710
+Us as leaders in this
+business, the system
+
+285
+00:11:50,710 --> 00:11:52,677
+today, the system
+that all companies
+
+286
+00:11:52,677 --> 00:11:54,760
+that we play video games
+from is a world of you've
+
+287
+00:11:54,760 --> 00:11:56,650
+got to be growing
+your business--
+
+288
+00:11:56,650 --> 00:11:59,470
+growth in our Xbox
+business is critical to
+
+289
+00:11:59,470 --> 00:12:01,060
+the long-term health of Xbox.
+
+290
+00:12:01,060 --> 00:12:03,970
+Many people know I've been
+on Xbox for over 20 years,
+
+291
+00:12:03,970 --> 00:12:06,310
+and I want to make sure
+Xbox is in the best
+
+292
+00:12:06,310 --> 00:12:08,140
+position for the next 20 years.
+
+293
+00:12:08,140 --> 00:12:10,900
+That means healthy player
+community, healthy creator
+
+294
+00:12:10,900 --> 00:12:13,130
+community, and healthy business.
+
+295
+00:12:13,130 --> 00:12:16,470
+So when we look at opportunities
+to allow more people to play,
+
+296
+00:12:16,470 --> 00:12:18,220
+more people to engage,
+more people to buy,
+
+297
+00:12:18,220 --> 00:12:20,470
+more people to
+subscribe, it's all about
+
+298
+00:12:20,470 --> 00:12:22,270
+putting Xbox in
+the best position.
+
+299
+00:12:22,270 --> 00:12:24,340
+And our hardware is a
+critical component of that.
+
+300
+00:12:24,340 --> 00:12:27,670
+The absolute best experience
+somebody has on Xbox
+
+301
+00:12:27,670 --> 00:12:30,948
+is hardware that our team
+builds and that people play on.
+
+302
+00:12:30,948 --> 00:12:32,490
+But that's not going
+to be everybody.
+
+303
+00:12:32,490 --> 00:12:33,907
+We fully accepted
+that we're going
+
+304
+00:12:33,907 --> 00:12:36,653
+to have Xbox players across
+all kinds of devices.
+
+305
+00:12:36,653 --> 00:12:38,070
+So I think a lot
+of people think
+
+306
+00:12:38,070 --> 00:12:40,870
+about 2023 is this
+incredible year for gaming.
+
+307
+00:12:40,870 --> 00:12:42,120
+And in a lot of ways, it was.
+
+308
+00:12:42,120 --> 00:12:44,100
+There was some really
+amazing releases
+
+309
+00:12:44,100 --> 00:12:45,390
+that I think we all enjoyed.
+
+310
+00:12:45,390 --> 00:12:49,020
+But what were the signals behind
+the scenes that maybe indicated
+
+311
+00:12:49,020 --> 00:12:51,450
+how we wanted to look
+at the future of Xbox
+
+312
+00:12:51,450 --> 00:12:53,410
+and how we keep up
+with the industry?
+
+313
+00:12:53,410 --> 00:12:54,970
+Yeah, such a good question.
+
+314
+00:12:54,970 --> 00:12:58,200
+And I think as people who
+care about the industry, which
+
+315
+00:12:58,200 --> 00:13:00,180
+I assume is people
+who are watching this,
+
+316
+00:13:00,180 --> 00:13:02,222
+it was an amazing year--
+some great launches.
+
+317
+00:13:02,222 --> 00:13:03,930
+Some of the games that
+I think will stand
+
+318
+00:13:03,930 --> 00:13:05,370
+the test of time and
+people will be talking
+
+319
+00:13:05,370 --> 00:13:06,720
+about a decade from now.
+
+320
+00:13:06,720 --> 00:13:09,560
+But it's an industry
+that didn't really grow.
+
+321
+00:13:09,560 --> 00:13:13,580
+And what happens when an
+industry doesn't grow?
+
+322
+00:13:13,580 --> 00:13:16,453
+You end up with some job
+eliminations, which we had.
+
+323
+00:13:16,453 --> 00:13:17,870
+We had even our
+own hard decisions
+
+324
+00:13:17,870 --> 00:13:19,640
+to make about
+building a sustainable
+
+325
+00:13:19,640 --> 00:13:23,750
+business for ourselves, but in
+no way were we alone in that.
+
+326
+00:13:23,750 --> 00:13:25,700
+When you think about
+a healthy industry,
+
+327
+00:13:25,700 --> 00:13:27,770
+I want players who
+believe that they
+
+328
+00:13:27,770 --> 00:13:30,350
+will find the best games on
+the platforms that they love.
+
+329
+00:13:30,350 --> 00:13:34,220
+I want people who invest
+their careers in working here
+
+330
+00:13:34,220 --> 00:13:37,590
+to feel like this is a place
+that they can be successful.
+
+331
+00:13:37,590 --> 00:13:39,560
+And that really is
+down to being part
+
+332
+00:13:39,560 --> 00:13:41,450
+of an industry that is growing.
+
+333
+00:13:41,450 --> 00:13:44,060
+If you listen to
+Lisa Su, the AMD CEO,
+
+334
+00:13:44,060 --> 00:13:46,400
+she'll say that
+AMD-powered consoles
+
+335
+00:13:46,400 --> 00:13:49,250
+are likely to decline in 2024.
+
+336
+00:13:49,250 --> 00:13:52,760
+I think there's an amazing
+set of games coming in 2024,
+
+337
+00:13:52,760 --> 00:13:56,270
+but if we don't get to
+growing as an industry,
+
+338
+00:13:56,270 --> 00:13:57,830
+the industry will struggle.
+
+339
+00:13:57,830 --> 00:13:59,570
+And today, there's
+really two choices
+
+340
+00:13:59,570 --> 00:14:01,130
+on how do you grow the industry.
+
+341
+00:14:01,130 --> 00:14:03,110
+Do you say, I have a
+fixed number of players,
+
+342
+00:14:03,110 --> 00:14:05,810
+the players that we have
+today, and do I find new ways
+
+343
+00:14:05,810 --> 00:14:08,720
+to monetize those players to
+get more money from the players
+
+344
+00:14:08,720 --> 00:14:09,740
+that I have?
+
+345
+00:14:09,740 --> 00:14:12,170
+Or do you think
+about, how do I expand
+
+346
+00:14:12,170 --> 00:14:15,230
+the business I have
+by finding new players
+
+347
+00:14:15,230 --> 00:14:18,890
+and adding those to the base
+of players that already play?
+
+348
+00:14:18,890 --> 00:14:21,620
+Our focus on Xbox
+for the last decade
+
+349
+00:14:21,620 --> 00:14:23,510
+has really been on
+that latter point
+
+350
+00:14:23,510 --> 00:14:25,940
+of, how do we make
+sure Xbox is growing?
+
+351
+00:14:25,940 --> 00:14:28,670
+Growing for our players,
+growing for our creators
+
+352
+00:14:28,670 --> 00:14:30,950
+so those people
+are finding success
+
+353
+00:14:30,950 --> 00:14:34,130
+on our platform, which
+will grow the Xbox business
+
+354
+00:14:34,130 --> 00:14:37,250
+and put Xbox in a position
+to be very strong for years
+
+355
+00:14:37,250 --> 00:14:38,162
+and decades to come.
+
+356
+00:14:38,162 --> 00:14:39,620
+TINA AMINI: Matt,
+earlier, you were
+
+357
+00:14:39,620 --> 00:14:42,680
+talking about these growing
+gaming communities, how they're
+
+358
+00:14:42,680 --> 00:14:47,690
+incredibly large and comparable
+on such a different level
+
+359
+00:14:47,690 --> 00:14:50,268
+when we think about console
+audiences-- like you mentioned
+
+360
+00:14:50,268 --> 00:14:51,560
+Roblox, you mentioned Fortnite.
+
+361
+00:14:51,560 --> 00:14:54,740
+So we're obviously thinking
+about our responsibility,
+
+362
+00:14:54,740 --> 00:14:57,980
+our hardware responsibility in
+supporting the growth of gaming
+
+363
+00:14:57,980 --> 00:14:58,700
+communities.
+
+364
+00:14:58,700 --> 00:15:00,800
+How has that actually
+shown up for the players?
+
+365
+00:15:00,800 --> 00:15:03,350
+Are there other games we can
+speak to from our portfolio?
+
+366
+00:15:03,350 --> 00:15:06,140
+Well, as Phil mentioned, two
+of the biggest ones for us,
+
+367
+00:15:06,140 --> 00:15:09,433
+Call of Duty and Minecraft--
+they are driven just from
+
+368
+00:15:09,433 --> 00:15:11,850
+the bottom-up by the communities
+of people that play those
+
+369
+00:15:11,850 --> 00:15:13,830
+games, which is so great.
+
+370
+00:15:13,830 --> 00:15:17,190
+Think about it, for
+the player community,
+
+371
+00:15:17,190 --> 00:15:19,212
+it comes down to,
+where are the friends?
+
+372
+00:15:19,212 --> 00:15:20,670
+Where are the people
+you play with?
+
+373
+00:15:20,670 --> 00:15:24,480
+And then equally important
+is, where have you built up
+
+374
+00:15:24,480 --> 00:15:25,890
+your library of games, right?
+
+375
+00:15:25,890 --> 00:15:27,383
+Where have you invested?
+
+376
+00:15:27,383 --> 00:15:28,300
+Where is that library?
+
+377
+00:15:28,300 --> 00:15:30,690
+I think those two
+things probably
+
+378
+00:15:30,690 --> 00:15:32,640
+are some of the biggest
+influences on where
+
+379
+00:15:32,640 --> 00:15:35,250
+people choose to play and what
+devices they choose to play.
+
+380
+00:15:35,250 --> 00:15:35,792
+Absolutely.
+
+381
+00:15:35,792 --> 00:15:39,300
+When we think about on the
+other side, the developer side,
+
+382
+00:15:39,300 --> 00:15:41,910
+just any game developer
+wants their game
+
+383
+00:15:41,910 --> 00:15:43,770
+to find the biggest
+audience possible.
+
+384
+00:15:43,770 --> 00:15:46,050
+That's just the nature
+of building a game.
+
+385
+00:15:46,050 --> 00:15:48,300
+You want people to
+enjoy and participate
+
+386
+00:15:48,300 --> 00:15:49,290
+in what you've made.
+
+387
+00:15:49,290 --> 00:15:53,460
+And I think we're in a unique
+position to deliver on that
+
+388
+00:15:53,460 --> 00:15:56,490
+just because we are the
+platform-- we build hardware.
+
+389
+00:15:56,490 --> 00:15:58,290
+We've got a first
+party games group.
+
+390
+00:15:58,290 --> 00:16:01,140
+And then we've got a system
+that ties that together that
+
+391
+00:16:01,140 --> 00:16:03,750
+brings together your
+friends, your progression,
+
+392
+00:16:03,750 --> 00:16:05,440
+your achievements, all of that.
+
+393
+00:16:05,440 --> 00:16:07,050
+And I think that's
+really what has
+
+394
+00:16:07,050 --> 00:16:08,850
+contributed to the
+momentum behind some
+
+395
+00:16:08,850 --> 00:16:09,780
+of these communities.
+
+396
+00:16:09,780 --> 00:16:10,988
+SARAH BOND: Yeah, absolutely.
+
+397
+00:16:10,988 --> 00:16:13,170
+When you just step
+back and you look
+
+398
+00:16:13,170 --> 00:16:15,300
+at the history of
+the industry, we've
+
+399
+00:16:15,300 --> 00:16:19,080
+moved from a place where it
+used to be that someone built
+
+400
+00:16:19,080 --> 00:16:21,390
+and launched a game to
+accelerate hardware,
+
+401
+00:16:21,390 --> 00:16:24,090
+to actually the things
+we do with our hardware
+
+402
+00:16:24,090 --> 00:16:26,580
+and with our platform
+are all in service
+
+403
+00:16:26,580 --> 00:16:28,560
+of making those games bigger.
+
+404
+00:16:28,560 --> 00:16:31,140
+And we think about that
+across all of the investments
+
+405
+00:16:31,140 --> 00:16:33,443
+we make-- the consoles
+we build, the investments
+
+406
+00:16:33,443 --> 00:16:34,860
+we do with things
+like cross-play,
+
+407
+00:16:34,860 --> 00:16:37,800
+cross-progression, the things
+that we're doing with cloud.
+
+408
+00:16:37,800 --> 00:16:40,950
+How do we actually give more
+options to game creators
+
+409
+00:16:40,950 --> 00:16:42,880
+so they can have the
+greatest success?
+
+410
+00:16:42,880 --> 00:16:45,720
+I think one of the fun
+recent examples about this
+
+411
+00:16:45,720 --> 00:16:47,460
+is actually Palworld.
+
+412
+00:16:47,460 --> 00:16:48,900
+Palworld was able to launch.
+
+413
+00:16:48,900 --> 00:16:50,310
+They were a game preview.
+
+414
+00:16:50,310 --> 00:16:51,690
+They launched in Game Pass.
+
+415
+00:16:51,690 --> 00:16:54,180
+They also simultaneously
+launched in Steam.
+
+416
+00:16:54,180 --> 00:16:57,150
+And so the combination of
+those things, Pocket Pair
+
+417
+00:16:57,150 --> 00:16:59,670
+was able to have this
+outsized success.
+
+418
+00:16:59,670 --> 00:17:03,360
+And it was the largest third
+party Game Pass launch ever.
+
+419
+00:17:03,360 --> 00:17:05,310
+And that's all because
+we give creators
+
+420
+00:17:05,310 --> 00:17:07,292
+options on how they
+can launch their games.
+
+421
+00:17:07,292 --> 00:17:08,250
+We've got subscription.
+
+422
+00:17:08,250 --> 00:17:08,970
+We've got retail.
+
+423
+00:17:08,970 --> 00:17:09,928
+We've got free to play.
+
+424
+00:17:09,928 --> 00:17:11,069
+We've got game preview.
+
+425
+00:17:11,069 --> 00:17:12,150
+We have the consoles.
+
+426
+00:17:12,150 --> 00:17:13,770
+We have our experience on PC.
+
+427
+00:17:13,770 --> 00:17:16,450
+And they can access
+all of those things.
+
+428
+00:17:16,450 --> 00:17:18,420
+And when we step
+back and we just
+
+429
+00:17:18,420 --> 00:17:21,060
+look at the performance
+of our platform all up,
+
+430
+00:17:21,060 --> 00:17:22,470
+we know it's working.
+
+431
+00:17:22,470 --> 00:17:24,630
+We're at the highest
+level of users on console,
+
+432
+00:17:24,630 --> 00:17:26,280
+the highest level
+of users on PC,
+
+433
+00:17:26,280 --> 00:17:29,070
+the highest level of
+users on cloud ever.
+
+434
+00:17:29,070 --> 00:17:31,650
+We have double-digit growth
+rate on PC and cloud,
+
+435
+00:17:31,650 --> 00:17:33,450
+places where we're
+enabling creators
+
+436
+00:17:33,450 --> 00:17:37,140
+to actually reach new players
+beyond the console ecosystem.
+
+437
+00:17:37,140 --> 00:17:38,820
+And that's why we're
+leaning into it
+
+438
+00:17:38,820 --> 00:17:41,285
+and doing more, because
+we see all those signals.
+
+439
+00:17:41,285 --> 00:17:42,660
+So we're talking
+about the role
+
+440
+00:17:42,660 --> 00:17:45,103
+that hardware plays for
+creators, for the games,
+
+441
+00:17:45,103 --> 00:17:46,020
+and those communities.
+
+442
+00:17:46,020 --> 00:17:47,460
+What about the
+role that hardware
+
+443
+00:17:47,460 --> 00:17:49,560
+plays for us as a
+business, for Xbox?
+
+444
+00:17:49,560 --> 00:17:52,530
+When we look at our
+hardware, it really is,
+
+445
+00:17:52,530 --> 00:17:54,690
+and Phil said this
+earlier, it's where
+
+446
+00:17:54,690 --> 00:17:59,070
+you get the most flagship,
+seminal experience of Xbox.
+
+447
+00:17:59,070 --> 00:18:01,800
+And it also represents
+a developer target.
+
+448
+00:18:01,800 --> 00:18:04,440
+Our developers can build
+the specs of our hardware,
+
+449
+00:18:04,440 --> 00:18:07,770
+and we invest to make sure
+when they do that the games are
+
+450
+00:18:07,770 --> 00:18:09,560
+going to run great
+on our hardware,
+
+451
+00:18:09,560 --> 00:18:12,110
+but they're also going
+to be able to be accessed
+
+452
+00:18:12,110 --> 00:18:16,410
+across any screen because of all
+the other investments we make.
+
+453
+00:18:16,410 --> 00:18:18,830
+So we're giving them
+an easy way to access
+
+454
+00:18:18,830 --> 00:18:20,670
+as many players as possible.
+
+455
+00:18:20,670 --> 00:18:23,600
+And we actually have more
+creators right now building
+
+456
+00:18:23,600 --> 00:18:26,990
+for Xbox than ever
+before, thousands of them,
+
+457
+00:18:26,990 --> 00:18:28,610
+by nature of those investments.
+
+458
+00:18:28,610 --> 00:18:29,850
+And we got more to come.
+
+459
+00:18:29,850 --> 00:18:32,055
+There's some exciting stuff
+coming out in hardware
+
+460
+00:18:32,055 --> 00:18:33,680
+that we're going to
+share this holiday.
+
+461
+00:18:33,680 --> 00:18:37,310
+And we're also invested in
+the next generation roadmap.
+
+462
+00:18:37,310 --> 00:18:40,760
+And what we're really focused on
+there is delivering the largest
+
+463
+00:18:40,760 --> 00:18:42,710
+technical leap you
+will have ever seen
+
+464
+00:18:42,710 --> 00:18:45,980
+in a hardware generation, which
+makes it better for players
+
+465
+00:18:45,980 --> 00:18:48,590
+and better for creators and the
+visions that they're building.
+
+466
+00:18:48,590 --> 00:18:50,030
+TINA AMINI: And then when we're
+talking about hardware, too,
+
+467
+00:18:50,030 --> 00:18:51,440
+there's these other
+considerations
+
+468
+00:18:51,440 --> 00:18:53,232
+that are really important
+to our community,
+
+469
+00:18:53,232 --> 00:18:55,370
+probably to each one
+of ourselves as well.
+
+470
+00:18:55,370 --> 00:18:57,500
+When you talk about
+library, because I
+
+471
+00:18:57,500 --> 00:18:59,390
+want to dig in on that
+a little bit more--
+
+472
+00:18:59,390 --> 00:19:02,660
+as we talk about cloud and the
+wider entertainment industry,
+
+473
+00:19:02,660 --> 00:19:04,370
+there's conversations
+about streaming.
+
+474
+00:19:04,370 --> 00:19:07,400
+How is that impacting
+how I own my content
+
+475
+00:19:07,400 --> 00:19:08,450
+that I've invested in?
+
+476
+00:19:08,450 --> 00:19:10,920
+So what can we say
+about our stance
+
+477
+00:19:10,920 --> 00:19:12,450
+around game preservation?
+
+478
+00:19:12,450 --> 00:19:13,350
+Yeah.
+
+479
+00:19:13,350 --> 00:19:16,530
+One of the highlights for
+me of being in this position
+
+480
+00:19:16,530 --> 00:19:18,810
+was getting to stand on
+stage when we announced back
+
+481
+00:19:18,810 --> 00:19:21,210
+compat coming to Xbox One.
+
+482
+00:19:21,210 --> 00:19:22,050
+It was fantastic.
+
+483
+00:19:22,050 --> 00:19:23,550
+People were reading
+the teleprompter
+
+484
+00:19:23,550 --> 00:19:25,680
+before I could read,
+I'm a slow reader,
+
+485
+00:19:25,680 --> 00:19:29,940
+and just feeling the
+energy in the auditorium
+
+486
+00:19:29,940 --> 00:19:31,530
+as we were saying
+that, and online.
+
+487
+00:19:31,530 --> 00:19:34,920
+One of the cues, I think, us
+as being part of Microsoft
+
+488
+00:19:34,920 --> 00:19:39,870
+take is looking at Windows,
+and how Windows, over decades,
+
+489
+00:19:39,870 --> 00:19:44,190
+has maintained software
+compatibility with things
+
+490
+00:19:44,190 --> 00:19:45,210
+that are built on it.
+
+491
+00:19:45,210 --> 00:19:47,640
+Like, I can still go back
+and play some of the games
+
+492
+00:19:47,640 --> 00:19:50,160
+that I love playing on
+Windows from decades ago
+
+493
+00:19:50,160 --> 00:19:51,240
+and it will still run.
+
+494
+00:19:51,240 --> 00:19:54,720
+And we try to bring that
+same view to consoles.
+
+495
+00:19:54,720 --> 00:19:57,120
+It's harder in console
+because the line
+
+496
+00:19:57,120 --> 00:19:59,940
+between what the hardware is
+and what the game is in consoles
+
+497
+00:19:59,940 --> 00:20:05,340
+is traditionally
+tighter, which you end up
+
+498
+00:20:05,340 --> 00:20:07,260
+doing these generational
+compatibilities
+
+499
+00:20:07,260 --> 00:20:10,800
+that we've built. But I will
+say compatibility, the ability
+
+500
+00:20:10,800 --> 00:20:13,890
+to not only play the games,
+but my saves are still there
+
+501
+00:20:13,890 --> 00:20:17,400
+with our cloud save systems,
+to try to keep the services up
+
+502
+00:20:17,400 --> 00:20:19,620
+as long as we can so
+that people can play
+
+503
+00:20:19,620 --> 00:20:21,960
+is a tenet of what
+we are as Xbox.
+
+504
+00:20:21,960 --> 00:20:23,040
+It's at our foundation.
+
+505
+00:20:23,040 --> 00:20:25,560
+And when we look at future
+hardware generations
+
+506
+00:20:25,560 --> 00:20:28,380
+and what we're going
+to support, making sure
+
+507
+00:20:28,380 --> 00:20:31,080
+that we respect, which is
+the word I use "respect"
+
+508
+00:20:31,080 --> 00:20:34,380
+the investments that people
+have made in Xbox going forward
+
+509
+00:20:34,380 --> 00:20:35,257
+is fundamental.
+
+510
+00:20:35,257 --> 00:20:36,840
+And the fact that
+you get entitlements
+
+511
+00:20:36,840 --> 00:20:39,420
+when you buy a game from
+us on both Windows and Xbox
+
+512
+00:20:39,420 --> 00:20:41,340
+also means you have
+the ability to play
+
+513
+00:20:41,340 --> 00:20:44,670
+that game across a multitude
+of devices, which I think
+
+514
+00:20:44,670 --> 00:20:47,430
+furthers the compatibility
+of the games that you own.
+
+515
+00:20:47,430 --> 00:20:50,280
+Can we go back to what
+Xbox stands for today?
+
+516
+00:20:50,280 --> 00:20:52,690
+I think we've pretty much
+covered all of the elements.
+
+517
+00:20:52,690 --> 00:20:54,360
+But if you could
+break it down for me.
+
+518
+00:20:54,360 --> 00:20:58,350
+When you play on Xbox,
+what we're saying is
+
+519
+00:20:58,350 --> 00:21:00,120
+you're playing on
+a platform where
+
+520
+00:21:00,120 --> 00:21:02,580
+you know the biggest
+games in the world
+
+521
+00:21:02,580 --> 00:21:04,320
+are always going to be.
+
+522
+00:21:04,320 --> 00:21:06,090
+You're playing on
+a platform where
+
+523
+00:21:06,090 --> 00:21:07,830
+you get to access Game Pass.
+
+524
+00:21:07,830 --> 00:21:11,220
+And all of the games from our
+incredible range of studios
+
+525
+00:21:11,220 --> 00:21:14,430
+will always launch
+in Game Pass day one.
+
+526
+00:21:14,430 --> 00:21:17,880
+And you're playing on a platform
+that's dedicated to you--
+
+527
+00:21:17,880 --> 00:21:21,630
+player-first features--
+cross-play, cross-save,
+
+528
+00:21:21,630 --> 00:21:25,740
+cross-progression,
+backwards compatibility,
+
+529
+00:21:25,740 --> 00:21:28,482
+being able to play your games
+in your library anywhere
+
+530
+00:21:28,482 --> 00:21:29,940
+you want because
+of the investments
+
+531
+00:21:29,940 --> 00:21:31,290
+that we make in cloud gaming.
+
+532
+00:21:31,290 --> 00:21:33,540
+And so you're playing somewhere
+where you're investing
+
+533
+00:21:33,540 --> 00:21:35,700
+and you know you get to
+take the games forward
+
+534
+00:21:35,700 --> 00:21:38,530
+with you and across all of
+the screens where you are.
+
+535
+00:21:38,530 --> 00:21:42,135
+And I think most importantly,
+Xbox is a place where you know
+
+536
+00:21:42,135 --> 00:21:44,160
+when you're investing
+in Xbox, you're
+
+537
+00:21:44,160 --> 00:21:47,820
+investing somewhere that is
+dedicated to making games more
+
+538
+00:21:47,820 --> 00:21:50,740
+successful and creators
+more successful,
+
+539
+00:21:50,740 --> 00:21:53,580
+so that they can invest more to
+bring even better experiences
+
+540
+00:21:53,580 --> 00:21:55,440
+to you all of the time.
+
+541
+00:21:55,440 --> 00:21:56,490
+Yeah.
+
+542
+00:21:56,490 --> 00:21:58,950
+That investment in
+the studios is so--
+
+543
+00:21:58,950 --> 00:22:01,650
+and we feel that as part of
+first party with the platform
+
+544
+00:22:01,650 --> 00:22:04,680
+proximity-- it's
+kind of amazing now
+
+545
+00:22:04,680 --> 00:22:07,470
+to look out across all
+the studios that we've got
+
+546
+00:22:07,470 --> 00:22:09,660
+and just be reminded
+that we're now
+
+547
+00:22:09,660 --> 00:22:13,000
+one of the biggest development
+organizations in the industry.
+
+548
+00:22:13,000 --> 00:22:14,760
+What does that mean for players?
+
+549
+00:22:14,760 --> 00:22:16,770
+It means that the
+biggest games are going
+
+550
+00:22:16,770 --> 00:22:18,750
+to continue to come to Xbox.
+
+551
+00:22:18,750 --> 00:22:21,960
+And this 2024, the
+year coming up,
+
+552
+00:22:21,960 --> 00:22:25,380
+we've got more than 10
+major releases coming up--
+
+553
+00:22:25,380 --> 00:22:26,100
+great stuff.
+
+554
+00:22:26,100 --> 00:22:29,280
+Hellblade 2, they've
+got Diablo expansion,
+
+555
+00:22:29,280 --> 00:22:32,730
+they've got Avowed, Ara,
+the Indiana Jones game,
+
+556
+00:22:32,730 --> 00:22:35,427
+and there's more in
+development, which
+
+557
+00:22:35,427 --> 00:22:38,010
+I think we're going to be able
+to share more about at our June
+
+558
+00:22:38,010 --> 00:22:39,690
+showcase coming up pretty soon.
+
+559
+00:22:39,690 --> 00:22:42,200
+Well, I guess I should get
+ready to work on that show.
+
+560
+00:22:42,200 --> 00:22:43,890
+[LAUGHTER]
+
+561
+00:22:43,890 --> 00:22:46,830
+Well, thank you all for showing
+up on the podcast today.
+
+562
+00:22:46,830 --> 00:22:48,940
+And we'll see the rest
+of you, this June.
+
+563
+00:22:48,940 --> 00:22:49,440
+Yeah.
+
+564
+00:22:49,440 --> 00:22:50,130
+Thanks, Tina.
+
+565
+00:22:50,130 --> 00:22:51,920
+Thank you.
+
+566
+00:22:51,920 --> 00:22:55,000
+[XBOX SOUND]
